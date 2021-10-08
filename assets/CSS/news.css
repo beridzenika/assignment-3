@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+.news-box{
+    display: inline-block;
+    border: 1px solid #a3a3a3;
+    width: 400px;
+    font-family: 'Roboto', sans-serif; 
+    margin: 50px;
+}
+.img-holder img{
+    width: 400px;
+    height: 300px;
+}
+.text-holder{
+    margin: 20px;
+}
+h3{
+    font-weight: bold;
+}
+p{
+    color: gray;
+}
+.text-holder img{
+    width: 15px;
+}
+.active-holder, .comments-holder{
+    color: #888888;
+    display: inline-block;
+    padding: 10px;
+}
